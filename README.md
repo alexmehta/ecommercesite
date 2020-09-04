@@ -1,7 +1,7 @@
 # ecommercesite
 basic PHP ecommerce website
-Features:
+Features:\
 -Admin mode\
 -add and remove items\
 -pictures\
--used bootstrap for html and css\
+-used bootstrap for html and css
